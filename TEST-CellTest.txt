@@ -1,0 +1,36 @@
+Testsuite: CellTest
+Tests run: 33, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.202 sec
+
+Testcase: possibleValuesTest_0 took 0.012 sec
+Testcase: possibleValuesTest_1 took 0.001 sec
+Testcase: possibleValuesTest_2 took 0 sec
+Testcase: existenceTest_0 took 0.001 sec
+Testcase: existenceTest_1 took 0 sec
+Testcase: existenceTest_2 took 0.001 sec
+Testcase: existenceTest_3 took 0 sec
+Testcase: existenceTest_4 took 0.001 sec
+Testcase: existenceTest_5 took 0 sec
+Testcase: existenceTest_6 took 0.001 sec
+Testcase: existenceTest_7 took 0 sec
+Testcase: existenceTest_8 took 0 sec
+Testcase: existenceTest_9 took 0 sec
+Testcase: checkingTest_0 took 0.001 sec
+Testcase: checkingTest_1 took 0.001 sec
+Testcase: checkingTest_2 took 0.001 sec
+Testcase: checkingTest_3 took 0 sec
+Testcase: constructTest_0 took 0.001 sec
+Testcase: constructTest_1 took 0 sec
+Testcase: constructTest_2 took 0.001 sec
+Testcase: removingTest_0 took 0 sec
+Testcase: removingTest_1 took 0.001 sec
+Testcase: removingTest_2 took 0 sec
+Testcase: removingTest_3 took 0.001 sec
+Testcase: removingTest_4 took 0 sec
+Testcase: removingTest_5 took 0 sec
+Testcase: existenceTest_10 took 0 sec
+Testcase: existenceTest_11 took 0.001 sec
+Testcase: existenceTest_12 took 0 sec
+Testcase: existenceTest_13 took 0.001 sec
+Testcase: existenceTest_14 took 0.001 sec
+Testcase: existenceTest_15 took 0.01 sec
+Testcase: existenceTest_16 took 0 sec

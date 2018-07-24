@@ -1,0 +1,359 @@
+Testsuite: BlockTest
+Tests run: 81, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.538 sec
+------------- Standard Output ---------------
+_______________________________
+  _|_|4|  _|8|_|  3|_|_|
+  _|_|_|  _|6|3|  _|4|2|
+  8|_|_|  4|2|5|  9|_|7|
+
+  3|_|2|  _|7|_|  5|_|8|
+  _|5|_|  _|_|_|  6|7|_|
+  6|_|8|  _|9|4|  2|3|1|
+
+  4|_|6|  2|_|7|  _|_|9|
+  5|2|_|  9|_|_|  _|_|_|
+  9|_|7|  _|1|_|  4|_|_|
+
+_______________________________
+  _|_|4|  _|8|_|  3|_|_|
+  _|_|_|  _|6|3|  _|4|2|
+  8|_|_|  4|2|5|  9|_|7|
+
+  3|_|2|  _|7|_|  5|9|8|
+  1|5|9|  _|3|_|  6|7|4|
+  6|7|8|  5|9|4|  2|3|1|
+
+  4|_|6|  2|5|7|  _|_|9|
+  5|2|_|  9|4|_|  _|_|_|
+  9|_|7|  _|1|_|  4|_|_|
+
+_______________________________
+  _|_|4|  _|8|_|  3|_|_|
+  7|_|_|  1|6|3|  8|4|2|
+  8|_|_|  4|2|5|  9|_|7|
+
+  3|4|2|  6|7|1|  5|9|8|
+  1|5|9|  8|3|2|  6|7|4|
+  6|7|8|  5|9|4|  2|3|1|
+
+  4|_|6|  2|5|7|  1|8|9|
+  5|2|_|  9|4|_|  7|6|3|
+  9|_|7|  3|1|_|  4|_|5|
+
+_______________________________
+  2|_|4|  7|8|9|  3|_|6|
+  7|9|5|  1|6|3|  8|4|2|
+  8|_|_|  4|2|5|  9|1|7|
+
+  3|4|2|  6|7|1|  5|9|8|
+  1|5|9|  8|3|2|  6|7|4|
+  6|7|8|  5|9|4|  2|3|1|
+
+  4|3|6|  2|5|7|  1|8|9|
+  5|2|1|  9|4|8|  7|6|3|
+  9|8|7|  3|1|6|  4|2|5|
+
+_______________________________
+  2|1|4|  7|8|9|  3|5|6|
+  7|9|5|  1|6|3|  8|4|2|
+  8|6|3|  4|2|5|  9|1|7|
+
+  3|4|2|  6|7|1|  5|9|8|
+  1|5|9|  8|3|2|  6|7|4|
+  6|7|8|  5|9|4|  2|3|1|
+
+  4|3|6|  2|5|7|  1|8|9|
+  5|2|1|  9|4|8|  7|6|3|
+  9|8|7|  3|1|6|  4|2|5|
+
+_______________________________
+  2|1|4|  7|8|9|  3|5|6|
+  7|9|5|  1|6|3|  8|4|2|
+  8|6|3|  4|2|5|  9|1|7|
+
+  3|4|2|  6|7|1|  5|9|8|
+  1|5|9|  8|3|2|  6|7|4|
+  6|7|8|  5|9|4|  2|3|1|
+
+  4|3|6|  2|5|7|  1|8|9|
+  5|2|1|  9|4|8|  7|6|3|
+  9|8|7|  3|1|6|  4|2|5|
+
+_______________________________
+  1|_|_|  9|_|4|  6|3|7|
+  _|_|7|  5|_|1|  2|_|4|
+  _|_|_|  _|3|_|  _|5|_|
+
+  7|_|_|  _|_|_|  _|6|5|
+  _|4|1|  2|_|6|  8|_|_|
+  3|9|_|  _|_|7|  _|_|2|
+
+  _|7|_|  _|2|9|  _|_|_|
+  6|_|9|  3|4|5|  7|_|_|
+  2|5|_|  1|7|8|  _|_|6|
+
+_______________________________
+  1|_|_|  9|8|4|  6|3|7|
+  _|_|7|  5|6|1|  2|_|4|
+  _|_|_|  7|3|2|  _|5|_|
+
+  7|_|_|  _|_|3|  _|6|5|
+  5|4|1|  2|9|6|  8|7|3|
+  3|9|_|  _|_|7|  _|_|2|
+
+  _|7|_|  6|2|9|  _|_|_|
+  6|_|9|  3|4|5|  7|_|_|
+  2|5|_|  1|7|8|  _|_|6|
+
+_______________________________
+  1|2|5|  9|8|4|  6|3|7|
+  _|_|7|  5|6|1|  2|_|4|
+  _|_|_|  7|3|2|  _|5|_|
+
+  7|8|2|  4|1|3|  9|6|5|
+  5|4|1|  2|9|6|  8|7|3|
+  3|9|6|  8|5|7|  _|_|2|
+
+  _|7|_|  6|2|9|  _|_|_|
+  6|1|9|  3|4|5|  7|_|8|
+  2|5|_|  1|7|8|  _|_|6|
+
+_______________________________
+  1|2|5|  9|8|4|  6|3|7|
+  _|3|7|  5|6|1|  2|_|4|
+  _|6|_|  7|3|2|  1|5|9|
+
+  7|8|2|  4|1|3|  9|6|5|
+  5|4|1|  2|9|6|  8|7|3|
+  3|9|6|  8|5|7|  4|1|2|
+
+  _|7|_|  6|2|9|  _|4|1|
+  6|1|9|  3|4|5|  7|2|8|
+  2|5|_|  1|7|8|  3|9|6|
+
+_______________________________
+  1|2|5|  9|8|4|  6|3|7|
+  _|3|7|  5|6|1|  2|8|4|
+  _|6|_|  7|3|2|  1|5|9|
+
+  7|8|2|  4|1|3|  9|6|5|
+  5|4|1|  2|9|6|  8|7|3|
+  3|9|6|  8|5|7|  4|1|2|
+
+  8|7|3|  6|2|9|  5|4|1|
+  6|1|9|  3|4|5|  7|2|8|
+  2|5|4|  1|7|8|  3|9|6|
+
+_______________________________
+  1|2|5|  9|8|4|  6|3|7|
+  9|3|7|  5|6|1|  2|8|4|
+  4|6|8|  7|3|2|  1|5|9|
+
+  7|8|2|  4|1|3|  9|6|5|
+  5|4|1|  2|9|6|  8|7|3|
+  3|9|6|  8|5|7|  4|1|2|
+
+  8|7|3|  6|2|9|  5|4|1|
+  6|1|9|  3|4|5|  7|2|8|
+  2|5|4|  1|7|8|  3|9|6|
+
+_______________________________
+  1|2|5|  9|8|4|  6|3|7|
+  9|3|7|  5|6|1|  2|8|4|
+  4|6|8|  7|3|2|  1|5|9|
+
+  7|8|2|  4|1|3|  9|6|5|
+  5|4|1|  2|9|6|  8|7|3|
+  3|9|6|  8|5|7|  4|1|2|
+
+  8|7|3|  6|2|9|  5|4|1|
+  6|1|9|  3|4|5|  7|2|8|
+  2|5|4|  1|7|8|  3|9|6|
+
+_______________________________
+  _|1|_|  7|_|6|  _|5|9|
+  6|_|_|  3|_|9|  2|8|1|
+  _|_|_|  _|2|_|  7|_|_|
+
+  1|_|_|  _|_|_|  8|_|7|
+  _|6|9|  5|_|8|  _|4|_|
+  2|_|3|  _|_|1|  _|_|5|
+
+  _|_|1|  _|5|3|  _|_|_|
+  5|_|7|  6|_|4|  _|_|8|
+  8|3|_|  2|9|7|  _|1|_|
+
+_______________________________
+  _|1|_|  7|_|6|  _|5|9|
+  6|_|_|  3|4|9|  2|8|1|
+  _|_|_|  _|2|5|  7|_|_|
+
+  1|_|_|  _|_|2|  8|_|7|
+  7|6|9|  5|3|8|  1|4|2|
+  2|_|3|  _|_|1|  _|_|5|
+
+  _|_|1|  8|5|3|  _|_|_|
+  5|_|7|  6|1|4|  _|_|8|
+  8|3|_|  2|9|7|  _|1|_|
+
+_______________________________
+  _|1|_|  7|8|6|  _|5|9|
+  6|_|5|  3|4|9|  2|8|1|
+  _|_|_|  1|2|5|  7|_|_|
+
+  1|_|4|  9|6|2|  8|3|7|
+  7|6|9|  5|3|8|  1|4|2|
+  2|8|3|  4|7|1|  _|_|5|
+
+  _|_|1|  8|5|3|  _|_|_|
+  5|_|7|  6|1|4|  _|_|8|
+  8|3|6|  2|9|7|  _|1|4|
+
+_______________________________
+  _|1|2|  7|8|6|  _|5|9|
+  6|7|5|  3|4|9|  2|8|1|
+  _|_|8|  1|2|5|  7|6|3|
+
+  1|5|4|  9|6|2|  8|3|7|
+  7|6|9|  5|3|8|  1|4|2|
+  2|8|3|  4|7|1|  _|9|5|
+
+  _|_|1|  8|5|3|  _|_|6|
+  5|_|7|  6|1|4|  _|2|8|
+  8|3|6|  2|9|7|  5|1|4|
+
+_______________________________
+  _|1|2|  7|8|6|  4|5|9|
+  6|7|5|  3|4|9|  2|8|1|
+  _|_|8|  1|2|5|  7|6|3|
+
+  1|5|4|  9|6|2|  8|3|7|
+  7|6|9|  5|3|8|  1|4|2|
+  2|8|3|  4|7|1|  6|9|5|
+
+  _|_|1|  8|5|3|  9|7|6|
+  5|9|7|  6|1|4|  3|2|8|
+  8|3|6|  2|9|7|  5|1|4|
+
+_______________________________
+  3|1|2|  7|8|6|  4|5|9|
+  6|7|5|  3|4|9|  2|8|1|
+  _|4|8|  1|2|5|  7|6|3|
+
+  1|5|4|  9|6|2|  8|3|7|
+  7|6|9|  5|3|8|  1|4|2|
+  2|8|3|  4|7|1|  6|9|5|
+
+  4|2|1|  8|5|3|  9|7|6|
+  5|9|7|  6|1|4|  3|2|8|
+  8|3|6|  2|9|7|  5|1|4|
+
+_______________________________
+  3|1|2|  7|8|6|  4|5|9|
+  6|7|5|  3|4|9|  2|8|1|
+  9|4|8|  1|2|5|  7|6|3|
+
+  1|5|4|  9|6|2|  8|3|7|
+  7|6|9|  5|3|8|  1|4|2|
+  2|8|3|  4|7|1|  6|9|5|
+
+  4|2|1|  8|5|3|  9|7|6|
+  5|9|7|  6|1|4|  3|2|8|
+  8|3|6|  2|9|7|  5|1|4|
+
+_______________________________
+  3|1|2|  7|8|6|  4|5|9|
+  6|7|5|  3|4|9|  2|8|1|
+  9|4|8|  1|2|5|  7|6|3|
+
+  1|5|4|  9|6|2|  8|3|7|
+  7|6|9|  5|3|8|  1|4|2|
+  2|8|3|  4|7|1|  6|9|5|
+
+  4|2|1|  8|5|3|  9|7|6|
+  5|9|7|  6|1|4|  3|2|8|
+  8|3|6|  2|9|7|  5|1|4|
+
+------------- ---------------- ---------------
+
+Testcase: searchingTest_H00 took 0.015 sec
+Testcase: searchingTest_H02 took 0 sec
+Testcase: searchingTest_H08 took 0 sec
+Testcase: searchingTest_H12 took 0 sec
+Testcase: searchingTest_H15 took 0 sec
+Testcase: searchingTest_H16 took 0.003 sec
+Testcase: searchingTest_H44 took 0 sec
+Testcase: searchingTest_H47 took 0 sec
+Testcase: searchingTest_H60 took 0 sec
+Testcase: searchingTest_H61 took 0.001 sec
+Testcase: searchingTest_H67 took 0.001 sec
+Testcase: searchingTest_H88 took 0.001 sec
+Testcase: searchingTest_V00 took 0 sec
+Testcase: searchingTest_V02 took 0.001 sec
+Testcase: searchingTest_V08 took 0.001 sec
+Testcase: searchingTest_V12 took 0.001 sec
+Testcase: searchingTest_V15 took 0 sec
+Testcase: searchingTest_V16 took 0.002 sec
+Testcase: searchingTest_V44 took 0 sec
+Testcase: searchingTest_V47 took 0.001 sec
+Testcase: searchingTest_V60 took 0 sec
+Testcase: searchingTest_V61 took 0.001 sec
+Testcase: searchingTest_V67 took 0 sec
+Testcase: searchingTest_V88 took 0.001 sec
+Testcase: solving_0 took 0.052 sec
+Testcase: solving_1 took 0.048 sec
+Testcase: solving_2 took 0.033 sec
+Testcase: searchingTest_00 took 0.001 sec
+Testcase: searchingTest_01 took 0.001 sec
+Testcase: searchingTest_02 took 0.001 sec
+Testcase: searchingTest_03 took 0.001 sec
+Testcase: searchingTest_04 took 0.004 sec
+Testcase: searchingTest_05 took 0 sec
+Testcase: searchingTest_06 took 0.001 sec
+Testcase: searchingTest_07 took 0.001 sec
+Testcase: searchingTest_10 took 0 sec
+Testcase: searchingTest_13 took 0 sec
+Testcase: searchingTest_14 took 0.006 sec
+Testcase: searchingTest_17 took 0.001 sec
+Testcase: searchingTest_20 took 0 sec
+Testcase: searchingTest_21 took 0 sec
+Testcase: searchingTest_22 took 0 sec
+Testcase: searchingTest_25 took 0.001 sec
+Testcase: searchingTest_27 took 0.001 sec
+Testcase: searchingTest_28 took 0 sec
+Testcase: searchingTest_30 took 0.001 sec
+Testcase: searchingTest_32 took 0 sec
+Testcase: searchingTest_33 took 0 sec
+Testcase: searchingTest_34 took 0.001 sec
+Testcase: searchingTest_36 took 0 sec
+Testcase: searchingTest_37 took 0.001 sec
+Testcase: searchingTest_40 took 0 sec
+Testcase: searchingTest_42 took 0 sec
+Testcase: searchingTest_44 took 0.001 sec
+Testcase: searchingTest_47 took 0.001 sec
+Testcase: searchingTest_48 took 0.003 sec
+Testcase: searchingTest_51 took 0 sec
+Testcase: searchingTest_52 took 0 sec
+Testcase: searchingTest_54 took 0.001 sec
+Testcase: searchingTest_55 took 0.001 sec
+Testcase: searchingTest_57 took 0 sec
+Testcase: searchingTest_58 took 0 sec
+Testcase: searchingTest_60 took 0.001 sec
+Testcase: searchingTest_61 took 0.001 sec
+Testcase: searchingTest_63 took 0 sec
+Testcase: searchingTest_64 took 0.001 sec
+Testcase: searchingTest_66 took 0 sec
+Testcase: searchingTest_68 took 0 sec
+Testcase: searchingTest_70 took 0 sec
+Testcase: searchingTest_72 took 0.001 sec
+Testcase: searchingTest_73 took 0 sec
+Testcase: searchingTest_75 took 0 sec
+Testcase: searchingTest_77 took 0 sec
+Testcase: searchingTest_80 took 0 sec
+Testcase: searchingTest_82 took 0 sec
+Testcase: searchingTest_83 took 0 sec
+Testcase: searchingTest_84 took 0 sec
+Testcase: searchingTest_86 took 0 sec
+Testcase: searchingTest_88 took 0 sec
+Testcase: constructTest_0 took 0.001 sec
+Testcase: constructTest_1 took 0.001 sec
